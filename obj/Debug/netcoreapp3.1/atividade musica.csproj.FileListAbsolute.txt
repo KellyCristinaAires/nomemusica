@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\atividade musica\bin\Debug\netcoreapp3.1\atividade musica.exe
+C:\Users\kelly\Documents\atividadespc1\atividade musica\bin\Debug\netcoreapp3.1\atividade musica.deps.json
+C:\Users\kelly\Documents\atividadespc1\atividade musica\bin\Debug\netcoreapp3.1\atividade musica.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\atividade musica\bin\Debug\netcoreapp3.1\atividade musica.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\atividade musica\bin\Debug\netcoreapp3.1\atividade musica.dll
+C:\Users\kelly\Documents\atividadespc1\atividade musica\bin\Debug\netcoreapp3.1\atividade musica.pdb
+C:\Users\kelly\Documents\atividadespc1\atividade musica\obj\Debug\netcoreapp3.1\atividade musica.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\atividade musica\obj\Debug\netcoreapp3.1\atividade musica.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\atividade musica\obj\Debug\netcoreapp3.1\atividade musica.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\atividade musica\obj\Debug\netcoreapp3.1\atividade musica.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\atividade musica\obj\Debug\netcoreapp3.1\atividade musica.dll
+C:\Users\kelly\Documents\atividadespc1\atividade musica\obj\Debug\netcoreapp3.1\atividade musica.pdb
+C:\Users\kelly\Documents\atividadespc1\atividade musica\obj\Debug\netcoreapp3.1\atividade musica.genruntimeconfig.cache
