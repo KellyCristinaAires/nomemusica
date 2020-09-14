@@ -26,7 +26,10 @@ namespace atividade_musica
               Console.WriteLine("Teu corpo suave de hortelã");
               Console.Write("\n");
               Console.ResetColor();
+              Console.ForegroundColor = ConsoleColor.Blue;
               Console.WriteLine("Canção de Marcos SABINO");
+              Console.ResetColor();
+
         }
     }
 }
